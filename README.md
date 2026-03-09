@@ -36,20 +36,15 @@ I am a software architect with a passion for building systems that bridge the ga
   </a>
 </p>
 
-#### 🎨 Design & Creative
+#### 🎨 Design & Media Production
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,ae,canva" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,canva,obs" />
   </a>
-  <!-- CorelDRAW and CorelStudio do not have standard icons in skill-icons, mentioning them as text or finding custom ones? For now, adding what's available and mentioning others. -->
 </p>
 
-#### 📊 Office & Productivity
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=word,excel,powerpoint" />
-  </a>
-</p>
+> [!TIP]
+> **Beyond the Code**: I have extensive experience in **Content Creation**, **Video Production**, and **Music Event Management**. From managing movie-sharing platforms to producing live technical and music events, I bridge the gap between creative vision and technical execution.
 
 ---
 
