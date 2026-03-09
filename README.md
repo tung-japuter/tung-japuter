@@ -29,9 +29,25 @@ I am a software architect with a passion for building systems that bridge the ga
 
 ### 🛠️ Tech Stack & Tools
 
+#### 💻 Development
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,php,python,fastapi,mysql,docker,linux" />
+  </a>
+</p>
+
+#### 🎨 Design & Creative
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,ai,ae,canva" />
+  </a>
+  <!-- CorelDRAW and CorelStudio do not have standard icons in skill-icons, mentioning them as text or finding custom ones? For now, adding what's available and mentioning others. -->
+</p>
+
+#### 📊 Office & Productivity
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=word,excel,powerpoint" />
   </a>
 </p>
 
