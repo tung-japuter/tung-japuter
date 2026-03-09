@@ -35,13 +35,13 @@
   <i>Status: All Systems Operational • Multi-Region Scaling Enabled</i>
 </p>
 
-#### 🛠️ Core Technology Matrix
-| Domain | Specialized Technologies & Proprietary Solutions |
+#### 🛠️ Expertise & Ecosystem Stack
+| Area | Technologies & Services |
 | :--- | :--- |
-| **Web System** | **Japuter Soft**: `HTML5/CSS3 Mastery`, `Advanced JavaScript`, `PHP Core`, `Next.js Hub`, `React/Native`, `PWA Deployment` |
-| **Infrastructure** | **S2U Infra**: `Docker Orchestration`, `Linux Kernel Hardening`, `CyberPanel Clusters`, `VPS Optimization`, `Cloudflare Network` |
-| **Intelligence** | **Japuter AI**: `Custom RAG Pipelines`, `Autonomous Agent Swarms`, `Vector database Indexing`, `Llama/DeepSeek Fine-tuning`, `LangChain Logic` |
-| **Creative** | **Media Production**: `Adobe Series (PS/AI/AE/PR)`, `OBS Stream Kits`, `Cinematic Color Grading`, `Digital Content Strategy` |
+| **Web & Software** | **Japuter Soft**: `HTML5`, `CSS3`, `JavaScript (Advanced)`, `PHP Core`, `Next.js`, `React Native`, `PWA` |
+| **Cloud & Infra** | **S2U.vn**: `Docker Orchestration`, `Linux (Ubuntu/CentOS)`, `CyberPanel`, `Security Hardening`, `Cloudflare` |
+| **AI & Automation** | **Japuter AI**: `RAG Architectures`, `LLM Fine-tuning (Llama/DeepSeek)`, `Autonomous Agents`, `LangChain` |
+| **Design & Media** | **Japuter Media**: `Adobe Creative Suite`, `OBS Video Production`, `Content Strategy`, `Color Grading` |
 
 #### ⚡ Real-time System Analytics
 ```zsh
