@@ -10,36 +10,39 @@
 
 ---
 
-### 🌌 The JAPUTER Ecosystem
-*Technology & Entertainment Hub based in Hai Phong, Vietnam.*
+### 🌌 SYSTEM CORE: THE JAPUTER ECOSYSTEM
+*Autonomous Hub for Technology & Entertainment*
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tung-japuter&repo=my-tech&theme=tokyonight" alt="Top Language Card" />
+  <img src="https://img.shields.io/badge/PC_HARDWARE-00f3ff?style=for-the-badge&logo=cpu&logoColor=white" />
+  <img src="https://img.shields.io/badge/MEDIA_PROD-ff0055?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARENA_ESPORTS-bc13fe?style=for-the-badge&logo=vlc&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/AI_LOGIC-00ff41?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOFT_DEV-ff8c00?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLOUD_INFRA-6366f1?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
 
-#### 🏛️ Core Pillars
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tung-japuter&repo=my-tech&theme=tokyonight" alt="Featured Project" />
+</p>
 
-| 🔵 JAPUTER PC | 🔴 JAPUTER MEDIA | 🟣 JAPUTER ARENA |
-| :--- | :--- | :--- |
-| *Custom Hardware & Watercooling* | *Content & Social Seeding* | *Billiards & eSports Complex* |
-
-| 🟢 JAPUTER SOLUTIONS | 🟠 JAPUTER POS | 🟡 JAPUTER CLOUD |
-| :--- | :--- | :--- |
-| *B2B Networking & Infra* | *Multi-Industry Management* | *S2U.vn VPS & Hosting* |
-
-| 🤖 JAPUTER AI | 💻 JAPUTER SOFT | 🎨 JAPUTER DECOR |
-| :--- | :--- | :--- |
-| *Applied Logic & Agents* | *Mobile & Web Platforms* | *Smart Lighting & Ergonomics* |
-
-</div>
-
-> [!IMPORTANT]
-> **Vision**: Japuter is not just a brand; it's a closed-loop system blending **Hardware**, **Software**, and **Entertainment**. We Power the Future by bridging these three pillars into one cinematic experience.
+#### ⚡ Current System Status
+```zsh
+> [SYSTEM] Initializing Japuter Ecosystem v2.0...
+> [PC] Custom Watercooling Rig: CALIBRATED
+> [AI] Autonomous Agents: DEPLOYED
+> [CLOUD] S2U.VN Nodes: OPTIMIZED
+> [VISION] Bridging Hardware, Software, and Content.
+```
 
 ---
 
-### 🚀 Technical Evolution Journey
+### 🚀 Evolution Path
 
 I am a software architect with a passion for building systems that bridge the gap between technology and human creativity. My journey began in **2007**, long before the modern framework era. 
 
