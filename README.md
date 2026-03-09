@@ -36,12 +36,12 @@
 </p>
 
 #### 🛠️ Core Technology Matrix
-| Domain | Mastered Technologies & Operational Tools |
+| Domain | Specialized Technologies & Proprietary Solutions |
 | :--- | :--- |
-| **Web System** | **JAPUTER SOFT**: `HTML5 (2007)`, `JS`, `PHP`, `Next.js`, `Mobile Apps` |
-| **Infrastructure** | `Docker`, `Linux (Ubuntu/CentOS)`, `CyberPanel`, `S2U VPS` |
-| **Intelligence** | **JAPUTER AI**: `RAG Agents`, `OpenAI`, `LangChain`, `Vector DB` |
-| **Creative** | `Adobe PS`, `Illustrator`, `After Effects`, `Premiere`, `OBS` |
+| **Web System** | **Japuter Soft**: `HTML5/CSS3 Mastery`, `Advanced JavaScript`, `PHP Core`, `Next.js Hub`, `React/Native`, `PWA Deployment` |
+| **Infrastructure** | **S2U Infra**: `Docker Orchestration`, `Linux Kernel Hardening`, `CyberPanel Clusters`, `VPS Optimization`, `Cloudflare Network` |
+| **Intelligence** | **Japuter AI**: `Custom RAG Pipelines`, `Autonomous Agent Swarms`, `Vector database Indexing`, `Llama/DeepSeek Fine-tuning`, `LangChain Logic` |
+| **Creative** | **Media Production**: `Adobe Series (PS/AI/AE/PR)`, `OBS Stream Kits`, `Cinematic Color Grading`, `Digital Content Strategy` |
 
 #### ⚡ Real-time System Analytics
 ```zsh
