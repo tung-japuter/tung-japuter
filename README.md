@@ -24,9 +24,9 @@
 | Module | Description | Module | Description |
 | :--- | :--- | :--- | :--- |
 | 🖥️ **[01] JAPUTER PC** | Hardware & Watercooling | 🎮 **[02] JAPUTER GAMING** | Cyberpunk eSports Spaces |
-| 🎱 **[03] JAPUTER ARENA** | Billiards & Mixed Arena | 💼 **[04] JAPUTER SOLUTIONS** | B2B Infra & Networking |
+| 🎱 **[03] JAPUTER ARENA** | Gaming & Billiards | 💼 **[04] JAPUTER SOLUTIONS** | B2B Infra & Networking |
 | 📈 **[05] JAPUTER POS** | Multi-Industry ERP | ☁️ **[06] JAPUTER CLOUD** | S2U.vn VPS/Hosting |
-| 🤖 **[07] JAPUTER AI** | Autonomous LLM Agents | 💻 **[08] JAPUTER SOFT** | Next.js & Mobile Dev |
+| 🤖 **[07] JAPUTER AI** | Autonomous LLM Agents | 💻 **[08] JAPUTER SOFT** | Website & Mobile Dev |
 | 📢 **[09] JAPUTER MEDIA** | Social Seeding & Content | ✨ **[10] JAPUTER DECOR** | Smart Lighting & Ergonomics |
 
 </div>
