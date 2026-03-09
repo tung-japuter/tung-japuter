@@ -12,14 +12,18 @@
 
 ### 🚀 Technical Evolution Journey
 
-I am a software architect with a passion for building systems that bridge the gap between technology and human creativity. My journey began in the era of PHP 5.3 and jQuery, and has evolved through the rise of SPAs, DevOps, and now, Autonomous AI Agents.
+I am a software architect with a passion for building systems that bridge the gap between technology and human creativity. My journey began in **2007**, long before the modern framework era. 
 
 #### 🏛️ The Eras of Evolution
 | Era | Focus | Key Tech |
 | :--- | :--- | :--- |
-| **Foundations** | **Web Core** | PHP, jQuery, WordPress, Chrome Extensions |
-| **Modernization** | **Client & Infra** | AngularJS, React, PWA, Docker, DevOps |
-| **Innovation** | **AI & Agents** | Next.js, OpenAI, RAG, Autonomous Agents |
+| **2007 - 2010** | **The Pure Web** | HTML4/5, JS (ES3), Content Platforms, Movie Sharing Sites |
+| **2011 - 2014** | **Foundations** | PHP, AJAX, WordPress, Chrome Extensions |
+| **2015 - 2020** | **Modernization** | AngularJS, React, PWA, Docker, DevOps |
+| **2021 - Present** | **Innovation** | Next.js, OpenAI, RAG, Autonomous Agents |
+
+> [!NOTE]
+> My core strength lies in the fundamental building blocks of the web: **HTML and JavaScript**. Having started in 2007 building content-heavy platforms and movie-sharing sites, I've mastered the art of semantic structure and low-level DOM manipulation long before picking up PHP.
 
 ---
 
@@ -27,14 +31,14 @@ I am a software architect with a passion for building systems that bridge the ga
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,js,ts,react,nextjs,tailwind,nodejs,python,fastapi,mysql,mongodb,docker,githubactions,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,php,python,fastapi,mysql,docker,linux" />
   </a>
 </p>
 
 ---
 
 ### 🎵 Featured Project: [My Tech Evolution](https://github.com/tung-japuter/my-tech)
-> A curated repository documenting my coding journey year-by-year from 2011 to 2026. Explore the transition from simple PHP jukeboxes to complex AI Agents.
+> A curated repository documenting my coding journey year-by-year from 2011 up to the current AI Era. 
 
 ---
 
