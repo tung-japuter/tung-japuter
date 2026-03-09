@@ -38,9 +38,9 @@
 #### 🛠️ Core Technology Matrix
 | Domain | Mastered Technologies & Operational Tools |
 | :--- | :--- |
-| **Web System** | `HTML5 (2007 Legacy)`, `JavaScript`, `PHP`, `Next.js`, `FastAPI` |
-| **Infrastructure** | `Docker`, `Linux (Ubuntu/CentOS)`, `CyberPanel`, `Cloudflare` |
-| **Intelligence** | `OpenAI API`, `LangChain`, `RAG Architectures`, `Vector DB` |
+| **Web System** | **JAPUTER SOFT**: `HTML5 (2007)`, `JS`, `PHP`, `Next.js`, `Mobile Apps` |
+| **Infrastructure** | `Docker`, `Linux (Ubuntu/CentOS)`, `CyberPanel`, `S2U VPS` |
+| **Intelligence** | **JAPUTER AI**: `RAG Agents`, `OpenAI`, `LangChain`, `Vector DB` |
 | **Creative** | `Adobe PS`, `Illustrator`, `After Effects`, `Premiere`, `OBS` |
 
 #### ⚡ Real-time System Analytics
