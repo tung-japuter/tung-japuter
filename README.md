@@ -26,7 +26,7 @@
 | 🖥️ **[01] JAPUTER PC** | Hardware & Watercooling | 🎮 **[02] JAPUTER GAMING** | Cyberpunk eSports Spaces |
 | 🎱 **[03] JAPUTER ARENA** | Gaming & Billiards | 💼 **[04] JAPUTER SOLUTIONS** | B2B Infra & Networking |
 | 📈 **[05] JAPUTER POS** | Multi-Industry ERP | ☁️ **[06] JAPUTER CLOUD** | S2U.vn VPS/Hosting |
-| 🤖 **[07] JAPUTER AI** | Autonomous LLM Agents | 💻 **[08] JAPUTER SOFT** | Website & Mobile Dev |
+| 🤖 **[07] JAPUTER AI** | Proprietary Intelligence | 💻 **[08] JAPUTER SOFT** | Website & Mobile Dev |
 | 📢 **[09] JAPUTER MEDIA** | Social Seeding & Content | ✨ **[10] JAPUTER DECOR** | Smart Lighting & Ergonomics |
 
 </div>
@@ -35,13 +35,20 @@
   <i>Status: All Systems Operational • Multi-Region Scaling Enabled</i>
 </p>
 
-#### 🛠️ Expertise & Ecosystem Stack
+#### 🛠️ Tech Stack & Expertise Matrix
 | Area | Technologies & Services |
 | :--- | :--- |
 | **Web & Software** | **Japuter Soft**: `HTML5`, `CSS3`, `JavaScript (Advanced)`, `PHP Core`, `Next.js`, `React Native`, `PWA` |
 | **Cloud & Infra** | **S2U.vn**: `Docker Orchestration`, `Linux (Ubuntu/CentOS)`, `CyberPanel`, `Security Hardening`, `Cloudflare` |
 | **AI & Intelligence** | **Japuter AI** (Est. 2016): Proprietary logic-based intelligence, specialized in autonomous decision-making without external LLM dependencies. |
-| **Design & Media** | **Japuter Media**: `Adobe Creative Suite`, `OBS Video Production`, `Content Strategy`, `Color Grading` |
+| **Design & Media** | **Japuter Media**: `Adobe Series (PS/AI/AE/PR)`, `OBS Production`, `Content Strategy`, `Color Grading` |
+
+#### 🖼️ Visual Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,php,python,mysql,docker,linux,ps,ai,ae,pr,obs" />
+  </a>
+</p>
 
 #### ⚡ Real-time System Analytics
 ```zsh
@@ -56,7 +63,7 @@ $ japuter-cli --stats
 
 ### 🚀 Evolution Path
 
-I am a software architect with a passion for building systems that bridge the gap between technology and human creativity. My journey began in **2007**, long before the modern framework era. 
+My journey began in **2007**, long before the modern framework era. 
 
 #### 🏛️ The Eras of Evolution
 | Era | Focus | Key Tech |
@@ -67,28 +74,10 @@ I am a software architect with a passion for building systems that bridge the ga
 | **2021 - Present** | **Innovation** | Next.js, OpenAI, RAG, Autonomous Agents |
 
 > [!NOTE]
-> My core strength lies in the fundamental building blocks of the web: **HTML and JavaScript**. Having started in 2007 building content-heavy platforms and movie-sharing sites, I've mastered the art of semantic structure and low-level DOM manipulation long before picking up PHP.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### 💻 Development
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,php,python,fastapi,mysql,docker,linux" />
-  </a>
-</p>
-
-#### 🎨 Design & Media Production
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,canva,obs" />
-  </a>
-</p>
+> My core strength lies in the fundamental building blocks of the web: **HTML and JavaScript**. Having started in 2007 building movie-sharing sites and content platforms, I've mastered the art of semantic structure and low-level DOM manipulation long before picking up PHP.
 
 > [!TIP]
-> **Beyond the Code**: I have extensive experience in **Content Creation**, **Video Production**, and **Music Event Management**. From managing movie-sharing platforms to producing live technical and music events, I bridge the gap between creative vision and technical execution.
+> **Beyond the Code**: I have extensive experience in **Content Creation**, **Video Production**, and **Music Event Management**. I bridge the gap between creative vision and technical execution.
 
 ---
 
