@@ -1,7 +1,7 @@
 # <div align="center">Hi there, I'm Tung 👋</div>
 
 <div align="center">
-  <h3>Founder <a href="https://japuter.com">Japuter.com</a> &bull; <a href="https://s2u.vn">S2U.vn</a> &bull; <a href="https://wepro.vn">WePro.vn</a></h3>
+  <h3>Making Money, Not Drama</h3>
 </div>
 
 <div align="center">
