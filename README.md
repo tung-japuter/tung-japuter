@@ -40,7 +40,7 @@
 | :--- | :--- |
 | **Web & Software** | **Japuter Soft**: `HTML5`, `CSS3`, `JavaScript (Advanced)`, `PHP Core`, `Next.js`, `React Native`, `PWA` |
 | **Cloud & Infra** | **S2U.vn**: `Docker Orchestration`, `Linux (Ubuntu/CentOS)`, `CyberPanel`, `Security Hardening`, `Cloudflare` |
-| **AI & Automation** | **Japuter AI**: `RAG Architectures`, `LLM Fine-tuning (Llama/DeepSeek)`, `Autonomous Agents`, `LangChain` |
+| **AI & Intelligence** | **Japuter AI** (Est. 2016): Proprietary logic-based intelligence, specialized in autonomous decision-making without external LLM dependencies. |
 | **Design & Media** | **Japuter Media**: `Adobe Creative Suite`, `OBS Video Production`, `Content Strategy`, `Color Grading` |
 
 #### ⚡ Real-time System Analytics
