@@ -10,6 +10,35 @@
 
 ---
 
+### 🌌 The JAPUTER Ecosystem
+*Technology & Entertainment Hub based in Hai Phong, Vietnam.*
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tung-japuter&repo=my-tech&theme=tokyonight" alt="Top Language Card" />
+</div>
+
+#### 🏛️ Core Pillars
+<div align="center">
+
+| 🔵 JAPUTER PC | 🔴 JAPUTER MEDIA | 🟣 JAPUTER ARENA |
+| :--- | :--- | :--- |
+| *Custom Hardware & Watercooling* | *Content & Social Seeding* | *Billiards & eSports Complex* |
+
+| 🟢 JAPUTER SOLUTIONS | 🟠 JAPUTER POS | 🟡 JAPUTER CLOUD |
+| :--- | :--- | :--- |
+| *B2B Networking & Infra* | *Multi-Industry Management* | *S2U.vn VPS & Hosting* |
+
+| 🤖 JAPUTER AI | 💻 JAPUTER SOFT | 🎨 JAPUTER DECOR |
+| :--- | :--- | :--- |
+| *Applied Logic & Agents* | *Mobile & Web Platforms* | *Smart Lighting & Ergonomics* |
+
+</div>
+
+> [!IMPORTANT]
+> **Vision**: Japuter is not just a brand; it's a closed-loop system blending **Hardware**, **Software**, and **Entertainment**. We Power the Future by bridging these three pillars into one cinematic experience.
+
+---
+
 ### 🚀 Technical Evolution Journey
 
 I am a software architect with a passion for building systems that bridge the gap between technology and human creativity. My journey began in **2007**, long before the modern framework era. 
