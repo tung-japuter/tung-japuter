@@ -10,34 +10,58 @@
 
 ---
 
-### 🌌 SYSTEM CORE: THE JAPUTER ECOSYSTEM
-*Autonomous Hub for Technology & Entertainment*
+### 🌐 GLOBAL OPERATIONAL DASHBOARD: JAPUTER ECOSYSTEM
+*Multi-layered Infrastructure for Technology & Entertainment*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
+#### 🛰️ Infrastructure Modules (Active Nodes)
+
 <div align="center">
-  <img src="https://img.shields.io/badge/PC_HARDWARE-00f3ff?style=for-the-badge&logo=cpu&logoColor=white" />
-  <img src="https://img.shields.io/badge/MEDIA_PROD-ff0055?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
-  <img src="https://img.shields.io/badge/ARENA_ESPORTS-bc13fe?style=for-the-badge&logo=vlc&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/AI_LOGIC-00ff41?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOFT_DEV-ff8c00?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/CLOUD_INFRA-6366f1?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+| 🖥️ [01] JAPUTER PC | 🎮 [02] JAPUTER GAMING | 🎱 [03] JAPUTER ARENA |
+| :--- | :--- | :--- |
+| **Focus**: High-Performance Hardware | **Focus**: Cyberpunk eSports Spaces | **Focus**: Billiards & Mixed Arena |
+| `Status: Calibrating` | `Status: Online` | `Status: Operational` |
+
+| 💼 [04] JAPUTER SOLUTIONS | 📈 [05] JAPUTER POS | ☁️ [06] JAPUTER CLOUD |
+| :--- | :--- | :--- |
+| **Focus**: B2B Infra & Networking | **Focus**: Multi-Industry ERP | **Focus**: S2U.vn VPS/Hosting |
+| `Status: Optimized` | `Status: Scaling` | `Status: High-Availability` |
+
+| 🤖 [07] JAPUTER AI | 💻 [08] JAPUTER SOFT | 📢 [09] JAPUTER MEDIA |
+| :--- | :--- | :--- |
+| **Focus**: Autonomous LLM Agents | **Focus**: Next.js & Mobile Dev | **Focus**: Social Seeding & Content |
+| `Status: Reasoning` | `Status: Deploying` | `Status: Broadcasting` |
+
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tung-japuter&repo=my-tech&theme=tokyonight" alt="Featured Project" />
-</p>
+<div align="center">
 
-#### ⚡ Current System Status
+| ✨ [10] JAPUTER DECOR |
+| :--- |
+| **Focus**: Ergonomic & Smart Lighting Systems |
+| `Status: Synchronized` |
+
+</div>
+
+#### 🛠️ Core Technology Matrix
+| Domain | Mastered Technologies & Operational Tools |
+| :--- | :--- |
+| **Web System** | `HTML5 (2007 Legacy)`, `JavaScript`, `PHP`, `Next.js`, `FastAPI` |
+| **Infrastructure** | `Docker`, `Linux (Ubuntu/CentOS)`, `CyberPanel`, `Cloudflare` |
+| **Intelligence** | `OpenAI API`, `LangChain`, `RAG Architectures`, `Vector DB` |
+| **Creative** | `Adobe PS`, `Illustrator`, `After Effects`, `Premiere`, `OBS` |
+
+#### ⚡ Real-time System Analytics
 ```zsh
-> [SYSTEM] Initializing Japuter Ecosystem v2.0...
-> [PC] Custom Watercooling Rig: CALIBRATED
-> [AI] Autonomous Agents: DEPLOYED
-> [CLOUD] S2U.VN Nodes: OPTIMIZED
-> [VISION] Bridging Hardware, Software, and Content.
+$ japuter-cli --stats
+[SYSTEM] Founder: Tung Japuter
+[UPTIME] 19 Years (Since 2007)
+[MISSION] Making Money, Not Drama.
+[STATUS] Powering the Future through Hardware/Software Convergence.
 ```
 
 ---
